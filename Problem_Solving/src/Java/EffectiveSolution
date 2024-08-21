@@ -1,0 +1,9 @@
+# WHY MY SOLUTION IS EFFECTIVE
+
+1.The solution makes use of simple loops and conditionals to handle the carry,
+  ensuring correctness without over-complicating the logic.
+  
+2.The solution correctly handles edge cases like all 9's by resizing the array when necessary.
+
+3.The solution runs in linear time, which is optimal for this type of problem.
+  The space complexity is also efficient since it only allocates additional space when required.
